@@ -1,0 +1,56 @@
+h2{
+  color: #66BFBF;
+}
+
+
+body{
+  background-image: url("er.jpg");
+}
+
+.intro{
+    clear: left;
+    color: yellow;
+}
+.img{
+
+  width: 8%;
+  height:8%;
+  float: left;
+
+}
+
+.link{
+  position: relative;
+  left: 70%;
+  color: orange;
+}
+
+.About{
+  position: absolute;
+  left: 30%;
+}
+
+.club{
+  float: left;
+  
+ 
+}
+ .image{
+   position: relative;
+   left:  3%;
+ }
+ .login{
+   position: relative;
+   left: 80%;
+   color: yellow;
+ }
+
+ .username{
+position: relative;
+right: 8%;
+}
+
+.log{
+  position: relative;
+  right: 9%;
+}
